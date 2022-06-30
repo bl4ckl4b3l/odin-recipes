@@ -1,0 +1,16 @@
+/* CSS */
+
+div {
+    color:darkcyan;
+    background-color: slategray;
+}
+
+p {
+    color:black;
+}
+
+#odd {
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
